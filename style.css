@@ -1,0 +1,30 @@
+td{
+    text-align: center;
+    font-size: xx-large;
+    font-style: italic;
+    border-top:black solid 2px;
+    border-left:black solid 2px;
+    border-bottom:black solid 2px;
+    border-right: black solid 2px;
+}
+.top{
+    background-color:rgb(169, 135, 118);
+}
+.right
+{
+    background-color: rgb(167, 168, 152);
+    border-right: black solid 2px;
+}
+.number{
+    background-color: rgb(136, 169, 134)
+}
+.input{
+    background-color: rgb(121, 232, 195);
+    border-left: black solid 2px;
+    border-top:black solid 2px;
+    border-right: black solid 2px;
+    border-bottom:black solid 2px;
+} 
+.bottom{
+    background-color: rgb(177, 148, 125);
+}
